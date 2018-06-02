@@ -46,3 +46,19 @@
 	<ctype.h>
 	"funciones.h"
 
+1526068411 source:c:\users\juancin\documents\github\tp_laboratorio_1\tp-2\tp-2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1526068373 c:\users\juancin\documents\github\tp_laboratorio_1\tp-2\tp-2\funciones.h
+
+1526068373 source:c:\users\juancin\documents\github\tp_laboratorio_1\tp-2\tp-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
